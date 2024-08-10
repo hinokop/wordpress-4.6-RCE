@@ -1,1 +1,1 @@
-Wordpress Remote Code execution by xDevil 
+Wordpress Remote Code execution by Shad0w 
